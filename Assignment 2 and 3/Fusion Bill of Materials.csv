@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component,Explain,Obtain,Price Per,Total
+U2,1, Arduino Uno R3,Base,https://www.amazon.ca/ARDUINO-A000066-Uno-DIP-1-5/dp/B008GRTSV6,$26.86 ,$26.86 
+Casing,1,Casing,To hold everything,3D printing,,
+Buttons,7, Pushbutton,"Buttons to press, the colours for playing guitar hero",https://www.digikey.ca/en/products/detail/te-connectivity-alcoswitch-switches/1825910-6/1632536?utm_adgroup=Switches,$0.18 ,$1.80 
+Keys,7,Keys,To Press,3D printing,,
+Springs,7,Springs,Keys functionality,Pens,,
+Total,,,,,,$0.00 
