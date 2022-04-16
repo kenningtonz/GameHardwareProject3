@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component,Explain,Obtain,Price Per,Total
+U2,1, Arduino Uno R3,Base,https://www.amazon.ca/ARDUINO-A000066-Uno-DIP-1-5/dp/B008GRTSV6,$26.86 ,$26.86 
+"Sgreen, Syellow, Sstart, Sred, Sexit, Sorange, Sblue",7, Pushbutton,"Buttons to press, the colours for playing guitar hero",https://www.digikey.ca/en/products/detail/te-connectivity-alcoswitch-switches/1825910-6/1632536?utm_adgroup=Switches,$0.18 ,$1.80 
+"R3, R4, R5, R6, R7, R8, R9",7,10 kΩ Resistor,To Resist,http://store-usa.arduino.cc/products/1-2-k-ohm-resistor-10x,$1.99 ,$1.99 
+Wires,12,Wires,To connect,https://www.amazon.ca/Elegoo-120pcs-Multicolored-Breadboard-arduino/dp/B01EV70C78,$14.99 ,$14.99 
+Total,,,,,,$45.64 
